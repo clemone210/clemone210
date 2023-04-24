@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @clemone210
-- 👀 I’m interested in everything related to Servers, Selfhosting and Motorcycles
-- 🌱 I’m currently learning webdesign & app development as well as python scripting and data manipulation.
+# Hi there, I'm Clemone210! 👋
 
-- 📫 How to reach me:
-     - Discord 
-[clem.one#1462](https://discordapp.com/users/210819455683526657)
+I'm a tech enthusiast who loves working with servers, self-hosting, and motorcycles. Currently, I'm focusing on learning web design, app development, Python scripting, and data manipulation. I'm always looking for ways to expand my knowledge and skills, and I'm excited to see where my journey takes me!
+
+## 📫 How to reach me
+
+Feel free to contact me through Discord or email. Here are my details:
+
+- Discord: [clem.one#1462](https://discordapp.com/users/210819455683526657)
+- Email: [clemone210@pm.me](mailto:clemone210@pm.me)
+
+Thanks for stopping by!
