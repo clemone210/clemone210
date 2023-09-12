@@ -7,6 +7,6 @@ I'm a tech enthusiast who loves working with servers, self-hosting, and motorcyc
 Feel free to contact me through Discord or email. Here are my details:
 
 - Discord: [clem.one#1462](https://discordapp.com/users/210819455683526657)
-- Email: [clemone210@pm.me](mailto:clemone210@pm.me)
+- Email: [tclemens@pm.me](mailto:tclemens@pm.me)
 
 Thanks for stopping by!
