@@ -1,4 +1,4 @@
-# Hi there, I'm Clemone210! 👋
+# Hi there, I'm clemone210! 👋
 
 I'm a tech enthusiast who loves working with servers and tech in gernal. I love self-hosting and love to ride motorcycles. Currently, I'm focusing on learning web design, app development, Python scripting, and data manipulation. I'm always looking for ways to expand my knowledge and skills, and I'm excited to see where my journey takes me!
 
